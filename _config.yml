@@ -1,10 +1,10 @@
 # Site settings
-title: Koolo233 Blog
-SEOTitle: Koolo233的博客 | Koolo233 Blog
+title: Koolo Blog
+SEOTitle: Koolo的博客 | Koolo Blog
 header-img: img/post-bg-desk.jpg
 email: koolo233@163.com
 description: "NIGHTMARE or FOND DREAM"
-keyword: "Koolo233, Koolo233 Blog, Koolo233的博客, Koolo"
+keyword: "Koolo233, Koolo Blog, Koolo233的博客, Koolo"
 url: "http://koolo233.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/koolo233/koolo233.github.io.git" # you code repository

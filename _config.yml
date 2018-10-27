@@ -1,13 +1,13 @@
 # Site settings
-title: Koolo233 Blog
-SEOTitle: Koolo233的博客 | Koolo233 Blog
+title: USTB-MLgroup Blog
+SEOTitle: USTB-MLgroup的博客 | USTB-MLgroup Blog
 header-img: img/post-bg-desk.jpg
-email: koolo233@163.com
+email: USTB-MLgroup@163.com
 description: "NIGHTMARE or FOND DREAM"
-keyword: "Koolo233, Koolo Blog, Koolo233的博客, Koolo"
-url: "http://koolo233.github.io"          # your host, for absolute URL
+keyword: "USTB-MLgroup, USTB-MLgroup Blog, USTB-MLgroup的博客, USTB, USTB-ML"
+url: "http://USTB-MLgroup.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/koolo233/koolo233.github.io.git" # you code repository
+github_repo: "https://github.com/USTB-MLgroup/USTB-MLgroup.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: True                       # whether or not using Sidebar.
@@ -19,10 +19,10 @@ sidebar-avatar: /img/avatar_my.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: True
 # weibo_username:     qiubaiying
-zhihu_username:     yang-jiang-30-82
-github_username:    Koolo233
+# zhihu_username:     yang-jiang-30-82
+github_username:    USTB-MLgroup
 # facebook_username:  baiying.qiu.7
-jianshu_username:   aeea269b75ec
+# jianshu_username:   aeea269b75ec
 #twitter_username:   qiubaiying
 
 

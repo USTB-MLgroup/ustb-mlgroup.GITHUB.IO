@@ -64,7 +64,7 @@ gitalk:
   enable: True    #是否开启Gitalk评论
   clientID: cd86d7ce6ab27c927b50                          #生成的clientID
   clientSecret: f53a80bcf029d44b90c84761f388a01d23254cfa   #生成的clientSecret
-  repo: ustb-mlgroup.github.io    #仓库名称
+  repo: GitTalk    #仓库名称
   owner: USTB-MLgroup    #github用户名
   admin: USTB-MLgroup
   distractionFreeMode: False #是否启用类似FB的阴影遮罩
